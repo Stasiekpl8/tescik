@@ -1,0 +1,11 @@
+.dziekuje{
+    text-align: center;
+    top: 200px;
+    position: relative;
+    color: white;
+}
+body{
+    background-image: url(nizele.png);
+    background-size: cover;
+    background-position: center;
+}
